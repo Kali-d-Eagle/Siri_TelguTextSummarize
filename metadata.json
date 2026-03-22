@@ -1,0 +1,5 @@
+{
+  "name": "Telugu Text Summarizer",
+  "description": "An AI-powered extractive text summarization tool for Telugu and English with a modern Gemini-inspired UI.",
+  "requestFramePermissions": []
+}
